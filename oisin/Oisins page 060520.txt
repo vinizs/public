@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Oisin's website</title>
+</head>
+<body style="background-color:DarkSlateGrey;">
+
+<h1> Hello World </h1>
+
+<a href="https://www.dogstrust.org.uk">
+
+
+<img src="rolo1.jpg" alt="Rolo on the sofa" style="width:300px;height:300px:">
+</a>
+
+<img src="rolo2.jpg" alt="Rolo on the sofa" style="width:300px;height:300px:">
+
+
+<img src="rolo3.jpg" alt="Rolo on the sofa" style="width:300px;height:300px:">
+<p> Rolo is a chocolate labrador who is 8 years old and 56 years old in dog years
+</p>
+<p> rolo in a hangover</p> 
+</body>
+</html>
