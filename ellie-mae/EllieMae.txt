@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Ellie-Mae's website</title>
+</head>
+<body style="background-color:LightPink;">
+
+
+<h1 style="text-align:center; color:#F026C8;"> Ellie-Mae doughnut shop </h1>
+<p> They are tasty > I Love them they are ssssssssssssssssssso good
+
+<a href="https://www.offbeatdonuts.com/">
+
+<img src="doughnuts.jpg" alt="zebra" style="width:600px;height:400px;">
+</a>
+<img src="donut.jpg" alt="zebra" style="width:600px;height:400px;">
+
+</p>
+
+
+
+</html>
