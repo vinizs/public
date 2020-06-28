@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+<div class="cities">
+ 				 
+			</div>	
+<head>
+		<title>Maria's flowers</title>
+			<style>
+		.cities {
+ 			 background-color: #D2F6F9;
+  			color: #38848A;
+  			margin: 30px;
+  			padding: 30px;}
+			</style>
+	</head>
+
+
+
+<body style="background-color:PowderBlue;">
+<h1> Hello World </h1>
+
+<div class="cities">
+<h2>Flowers</h2>
+<p>This is a wreath of peony and hydrange with small roses.</p>
+<p>Flower's are one of my favourite thing's.I love all kind's of flower's.
+<img src="flower.jpg" alt="flowers" style="width:700px;height:400px;">
+</p>
+</div> 
+
+<div class="cities">
+<h2>Family</h2>
+<p>This is a picture of my daughters wedding with her husband Vini,grandmother Mary and her aunties.</p>
+<p>
+<img src="wedding1.jpeg" alt="wedding1" style="width:700px;height:400px;">
+</p>
+</div>
+
+<div class="cities">
+<h2>Grandchildren</h2>
+<p>This is a picture of Lana and myself at the wedding.</p>
+
+<p>
+<img src="wedding2.jpeg" alt="wedding2" style="width:400px;height:400px;">
+</p>
+</div>
+
+</body>
+</html>
+ 
+
